@@ -61,7 +61,7 @@ public class First_lesson {
         } else System.out.println("a < b");
     }
 }
-
+//МАГИЯ!!!!!!
 
 
 
